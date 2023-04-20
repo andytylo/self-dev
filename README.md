@@ -1,5 +1,5 @@
 # self-dev
-making myself better, one self-dev resource at a time.
+making myself better, one self-dev resource at a time, and sharing what works for me, with you!
 
 Quotes
 
